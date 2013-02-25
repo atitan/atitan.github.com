@@ -1,1 +1,1 @@
-windows.alert("This is static file speaking.");
+window.alert("This is static file speaking.");
