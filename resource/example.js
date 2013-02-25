@@ -1,0 +1,1 @@
+windows.alert("This is static file speaking.");
